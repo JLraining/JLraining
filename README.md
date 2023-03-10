@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JLraining
+- 👋 Hi there, I’m Lilian Kiang.
 - 🌱 Doing something interesting.
 
 <!---
