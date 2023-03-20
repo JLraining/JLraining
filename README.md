@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Lilian Kiang.
+- 👋 Hi there, I’m Lilian Jiang.
 - 🌱 Doing something interesting.
 - 🏠 Chinese-born, residing in Singapore.
 
